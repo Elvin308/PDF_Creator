@@ -1,0 +1,1 @@
+This is a sample PDF template created in Python for use in experimenting with PDF managment software
